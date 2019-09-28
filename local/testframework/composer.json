@@ -1,0 +1,16 @@
+{
+    "name": "reinhurd/bitrix-date-filter",
+    "description": "test component for Bitrix",
+    "type": "project",
+    "authors": [
+        {
+            "name": "reinhurd",
+            "email": "roarus@yandex.ru"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7",
+        "mockery/mockery": "^1.2",
+        "fzaninotto/faker": "^1.8"
+    }
+}
